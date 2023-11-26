@@ -2,7 +2,7 @@
 
 Convert currencies with latest rates
 
-##Demo
+## Demo
 - https://taruhamalainen.github.io/react-currency-converter/
   
 
