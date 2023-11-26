@@ -1,8 +1,13 @@
-# React + Vite
+# Currency converter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Convert currencies with latest rates
 
-Currently, two official plugins are available:
+## Tools
+API:https://www.frankfurter.app/ 
+React
+Tailwind css
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Screenshots
+![currency_converter](https://github.com/TaruHamalainen/react-currency-converter/assets/82812247/13cc6e5f-5dae-45cb-ae26-e0f4185fdb84)
+
+
