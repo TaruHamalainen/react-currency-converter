@@ -2,6 +2,10 @@
 
 Convert currencies with latest rates
 
+##Demo
+- https://taruhamalainen.github.io/react-currency-converter/
+  
+
 ## Tools
 - API:https://www.frankfurter.app/
 - React
